@@ -1,0 +1,10 @@
+posizione random del cerchio
+accelerazione sull'asse x pari a 1 --> ogni ripetizione del draw aumentera di 1
+l'accelerzione influeza la velocita
+se al frame 0 il corpo sta al centro al frame 1
+
+x = x + 1 --> la posizione
+
+posizione del frame 2 più 2
+frame 4 accelerazione pari a 1 velocita pari a 4
+posizione uguale a 
